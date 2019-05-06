@@ -15,9 +15,15 @@ The dataset is in a csv format with the order from left to right as:
 SLD,TLD,MX,SPF,NXdomain,TTL
 
 SLD - second level domain
+
 TLD - top level domain
+
 MX - boolean value of whether MX record exists
+
 SPF - boolean value of whether SPF record exists
+
 NXdomain - boolean value of whether this domain is non-existant
+
 TTL - Average TTL value
+
 
